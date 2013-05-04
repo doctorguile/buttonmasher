@@ -1,0 +1,41 @@
+<html><head><title>Button Masher - Main</title></head>
+<body>
+
+<center>
+<img src="images/logo.png">
+<p><a href="index.html">Main</a> | 
+<a href="https://sourceforge.net/project/showfiles.php?group_id=113624">Download</a> | 
+<a href="contact.html">Contact</a> | 
+<a href="http://sourceforge.net/projects/buttonmasher">Project page</a>
+<p><hr width="100%">
+</center>
+
+<p><b>Button Masher</b> is a simple tool to help you analyze and
+improve your execution of fighting game moves, combos, etc. It's
+similar to the input display in the practice modes of various fighters.
+If you keep messing up a move but you're not sure why, just load
+this up and see exactly what you're inputting. Obviously, it's not
+intended to be a complete replacement for a practice mode, but if being
+able to reliably reproduce a movement is the problem, then this is for
+you.
+<p><b>Why use Button Masher when you already have a game with an input display?</b>
+
+<p><ul>
+<li>It runs on your PC, under Windows 9x/XP, and any other OS that supports your joystick and Pygame.
+<li>It loads instantly and needs no configuration.
+<li>It displays the number of frames elapsed at each input, so you
+can see whether you're doing a move quickly enough, or check your JF
+timing.
+<li>No getting distracted by punching up the practice opponent.
+<li>It's completely free.
+</ul>
+
+<center><p><b>Trying to do a Final Atomic Buster. Problem: Not pressing down-left.</b>
+<img src="images/hspd.png">
+</center>
+
+Button Masher is written in <a href="http://python.org/">Python</a>, using <a href="http://pygame.org/">Pygame</a>.
+
+<p><a href="http://sourceforge.net"><img src="http://sourceforge.net/sflogo.php?group_id=buttonmasher&amp;type=2"></a>
+
+</body></html>

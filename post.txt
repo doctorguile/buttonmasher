@@ -1,0 +1,29 @@
+Obsessive fighting game players, I give you Button Masher.
+
+[url]http://jowls.org/buttonmasher/buttonmasher
+
+[b]Title screen[/b]
+[img]http://paintedover.com/uploads/4/buttonmashertitle.png[/img]
+
+Button Masher is a simple tool to help you analyze and improve your execution of fighting game moves, combos, etc. If you keep screwing up a move, but you're not exactly sure why, just load up Button Masher and see exactly what you're inputting. It's similar to the display in the practice modes of various fighters, except it's not part of a specific game.
+
+[b]Trying to spaz out a spinning pile driver[/b]
+[img]http://paintedover.com/uploads/4/spd.png[/img]
+
+Why would you want to use this instead of a fighting game practice mode? I'm glad you asked!!
+
+* It runs on your PC, under Windows 9x/XP, and any other OS that supports Python/Pygame and your joystick.
+
+* It loads instantly and needs absolutely no configuration. Console/arcade games under emulators take a while to start up, then you have to configure your controls, then you have to select practice mode, then you have to choose a character, then you have to choose an opponent, then you have to choose a stage, then you have to choose a hat, then you have to wait for the stage to load, then if you knock them out of the ring you have to wait to reset, etc.
+
+* It has a handy display of the frames elapsed at each input, so if you're trying to do e.g. a just frame move where you know how many frames you have to wait, you can easily see whether you're too early or too late.
+
+* There aren't any distractions. Whenever I go into practice mode with the intention of just getting a move right, I always get distracted by walking up to the opponent and actually making the move connect, and then I get carried away and start punching them over and over and over and oh god it's 3AM what have I become
+
+* It's free!
+
+Obviously, it's not supposed to be a complete replacement for a practice mode, but if you're like me, just being able to reliably reproduce complicated movements is the trickiest part, and that's what Button Masher is for. This is the first release, so I'd be grateful for any suggestions for improvement. Also, [b]please let me know what joystick/gamepad/adapter you're using and whether it works in the program[/b] so I can put it down on the 'verified' list or try to fix the problem.
+
+[b]Practising mashing the buttons[/b]
+[img]http://paintedover.com/uploads/4/mashing.png[/img]
+
