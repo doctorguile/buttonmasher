@@ -9,5 +9,5 @@ setup(name="Button Masher",
 	data_files=[
 		(".", ["icon.bmp", "arrow5.png", "arrow8.png", "arrow9.png", "button.png",
 		"title.png", "buttonmasher.py", "joysticktest.py",
-		"atkins.ttf", "dpcomic.ttf", "readme.txt", "LICENSE.TXT"])])
+		"atkins.ttf", "dpcomic.ttf", "README.md", "LICENSE.TXT"])])
 

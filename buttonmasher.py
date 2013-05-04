@@ -108,6 +108,10 @@ class JoystickState:
             (e.axis == 0 or e.axis == 1)):
             self.axes[e.axis] = int(round(e.value))
             self.changed = True
+        elif e.type == pygame.JOYHATMOTION:
+            self.axes[0] = e.value[0]
+            self.axes[1] = -e.value[1]
+            self.changed = True
 
 
 class HotrodFilter:
